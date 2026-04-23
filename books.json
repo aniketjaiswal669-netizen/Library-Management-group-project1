@@ -1,0 +1,72 @@
+{
+    "B001": {
+        "nameofbook": "The Alchemist",
+        "author": "Paulo Coelho",
+        "quantity": 6,
+        "priceperday": 30,
+        "fineperday": 5
+    },
+    "B002": {
+        "nameofbook": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "quantity": 5,
+        "priceperday": 35,
+        "fineperday": 5
+    },
+    "B003": {
+        "nameofbook": "Wings of Fire",
+        "author": "A P J Abdul Kalam",
+        "quantity": 7,
+        "priceperday": 25,
+        "fineperday": 5
+    },
+    "B004": {
+        "nameofbook": "Harry Potter and the Sorcerer's Stone",
+        "author": "J K Rowling",
+        "quantity": 4,
+        "priceperday": 40,
+        "fineperday": 6
+    },
+    "B005": {
+        "nameofbook": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "quantity": 3,
+        "priceperday": 35,
+        "fineperday": 5
+    },
+    "B006": {
+        "nameofbook": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "quantity": 5,
+        "priceperday": 30,
+        "fineperday": 5
+    },
+    "B007": {
+        "nameofbook": "Atomic Habits",
+        "author": "James Clear",
+        "quantity": 6,
+        "priceperday": 35,
+        "fineperday": 5
+    },
+    "B008": {
+        "nameofbook": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "quantity": 4,
+        "priceperday": 30,
+        "fineperday": 5
+    },
+    "B009": {
+        "nameofbook": "The Great Gatsby",
+        "author": "F Scott Fitzgerald",
+        "quantity": 5,
+        "priceperday": 30,
+        "fineperday": 5
+    },
+    "B010": {
+        "nameofbook": "1984",
+        "author": "George Orwell",
+        "quantity": 4,
+        "priceperday": 30,
+        "fineperday": 5
+    }
+}
